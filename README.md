@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ##Basic functionalities available in this tracker are:-
->Inserting Expense
+>Inserting Expense &
 >Deleting Expense
 
 ## Available Scripts
