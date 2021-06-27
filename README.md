@@ -1,4 +1,4 @@
-# Basix Expense Tracker using Reactjs
+# Basic Expense Tracker using Reactjs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
